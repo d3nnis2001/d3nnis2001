@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Docker and Tensorflow/Keras**
 
-- 📫 How to reach me **dennisschielke1@gmail.com**
+- 📫 How to reach me **dennis.schielke1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
