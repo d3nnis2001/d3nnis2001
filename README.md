@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dennis Schielke</h1>
 <h3 align="center">An Ongoing Software/Data Engineer</h3>
 
-- 🌱 I’m currently learning **Docker and Tensorflow/Keras**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **dennis.schielke1@gmail.com**
 
