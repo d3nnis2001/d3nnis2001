@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dennis Schielke</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- I’m currently learning **React** and **N8N** for automation
 
-- 📫 How to reach me **dennis.schielke1@gmail.com**
+- How to reach me **dennis.schielke1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
